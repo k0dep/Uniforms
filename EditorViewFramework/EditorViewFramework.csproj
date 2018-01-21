@@ -33,6 +33,7 @@
   <ItemGroup>
     <Compile Include="Controll.cs" />
     <Compile Include="ControllButton.cs" />
+    <Compile Include="ControllFlexibleSpace.cs" />
     <Compile Include="ControllHorizontalLayout.cs" />
     <Compile Include="ControllIntField.cs" />
     <Compile Include="ControllLabel.cs" />

@@ -23,7 +23,7 @@ namespace EditorViewFramework
 
         public override void Draw()
         {
-            var newValue = EditorGUILayout.Toggle(Label, Value, Style, LayoutOptions);
+            var newValue = GUILayout.Toggle(Value, Label, Style, LayoutOptions);
 
             if (newValue != Value)
             {
