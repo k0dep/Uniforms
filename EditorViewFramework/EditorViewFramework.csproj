@@ -40,6 +40,7 @@
     <Compile Include="ControllObjectField.cs" />
     <Compile Include="ControllObjectFieldAccess.cs" />
     <Compile Include="ControllScrollView.cs" />
+    <Compile Include="ControllTabView.cs" />
     <Compile Include="ControllTextField.cs" />
     <Compile Include="ControllToggle.cs" />
     <Compile Include="ControllTolbarButtons.cs" />
