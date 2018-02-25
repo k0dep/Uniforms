@@ -6,19 +6,12 @@ namespace EditorViewFramework
     {
         public Controll MainControll { get; set; }
 
-        private bool _isInit = false;
-
-
-
         public void OnGUI()
         {
-            if (!_isInit)
-            {
-                _isInit = true;
+            if (MainControll == null)
                 PostInit();
-            }
 
-            MainControll.DrawEnabled();
+            MainControll?.DrawEnabled();
         }
 
         public virtual void PostInit()
