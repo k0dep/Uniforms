@@ -54,4 +54,5 @@ class ExampleFactory
 ```
 
 Резельтат:
+
 ![Пример окна](https://raw.githubusercontent.com/CTAPbIuKODEP/EditorViewFramework/master/docs/exampleview.png)
