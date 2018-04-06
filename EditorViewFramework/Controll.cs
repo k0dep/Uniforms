@@ -5,7 +5,7 @@ namespace EditorViewFramework
 {
     public abstract class Controll
     {
-        public GUIStyle Style { get; set; }
+        public virtual GUIStyle Style { get; set; }
         protected GUILayoutOption[] LayoutOptions { get; set; }
 
         private bool _Enabled = true;
