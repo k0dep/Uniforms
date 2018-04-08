@@ -1,4 +1,4 @@
-# Editor view framework
+# Uniforms
 
  Фреймворк для Unity3D для создания окон редакторов используя компоненты(например как в Windows forms)
 и все прелести ООП вместо того чтобы размазывать отрисовку контролов imgui Unity3D вместе с логикой в одном месте.
@@ -55,4 +55,4 @@ class ExampleFactory
 
 Резельтат:
 
-![Пример окна](https://raw.githubusercontent.com/CTAPbIuKODEP/EditorViewFramework/master/docs/exampleview.png)
+![Пример окна](https://raw.githubusercontent.com/k0dep/Uniforms/master/docs/exampleview.png)
